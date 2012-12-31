@@ -12,10 +12,10 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'SWFTOOLS for Linux',
-	'description' => 'Install SWFTOOLS on a Linux server. You must be root!',
+	'description' => 'SWFTOOLS can convert JPEG, PDF, PNG and WAV files to SWF / Föash files. Install SWFTOOLS on a Linux server. You must be root!',
 	'category' => 'backend',
 	'shy' => 0,
-	'version' => '0.0.2',
+	'version' => '0.0.1',
 	'priority' => '',
 	'loadOrder' => '',
 	'module' => '',
