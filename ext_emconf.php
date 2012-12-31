@@ -11,11 +11,11 @@
 ########################################################################
 
 $EM_CONF[$_EXTKEY] = array(
-	'title' => 'Swftools for Windows',
-	'description' => 'swftools.exe: Install swftools on a Windows server. You must be root!',
+	'title' => 'SWFTOOLS for Linux',
+	'description' => 'Install SWFTOOLS on a Linux server. You must be root!',
 	'category' => 'backend',
 	'shy' => 0,
-	'version' => '0.0.1',
+	'version' => '0.0.2',
 	'priority' => '',
 	'loadOrder' => '',
 	'module' => '',
